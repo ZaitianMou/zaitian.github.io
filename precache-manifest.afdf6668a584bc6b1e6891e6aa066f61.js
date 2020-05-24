@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ed258ef73588460624359092ed89161",
+    "revision": "f4690f73b3fdd5456b604537513c5cb3",
     "url": "/ZaitianMou.github.io/index.html"
   },
   {
-    "revision": "931d0063ea1ee77ebfe7",
+    "revision": "de158dbb2bf9861566a5",
     "url": "/ZaitianMou.github.io/static/css/main.5facb584.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ZaitianMou.github.io/static/js/2.66740a03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "931d0063ea1ee77ebfe7",
-    "url": "/ZaitianMou.github.io/static/js/main.975d7c3a.chunk.js"
+    "revision": "de158dbb2bf9861566a5",
+    "url": "/ZaitianMou.github.io/static/js/main.a95c62e3.chunk.js"
   },
   {
     "revision": "fd18fb690139e8d9c070",
