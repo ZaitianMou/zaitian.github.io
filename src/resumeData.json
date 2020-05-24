@@ -1,18 +1,18 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Zaitian Mou",
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Hey! I am a senior in Stony brook unviersity",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "zaitian.mou@gmail.com",
+    "phone": "631-428-9760",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"3 Possum ln",
+      "city":"Setauket",
+      "state":"NY",
+      "zip": "11733"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -52,9 +52,7 @@
         "url":"http://skype.com",
         "className":"fa fa-skype"
       }
-    ]
-  },
-  "resume":{
+    ],
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
