@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ZaitianMou.github.io/static/css/main.5facb584.chunk.css",
-    "main.js": "/ZaitianMou.github.io/static/js/main.9f61dc06.chunk.js",
-    "main.js.map": "/ZaitianMou.github.io/static/js/main.9f61dc06.chunk.js.map",
+    "main.js": "/ZaitianMou.github.io/static/js/main.f9736a15.chunk.js",
+    "main.js.map": "/ZaitianMou.github.io/static/js/main.f9736a15.chunk.js.map",
     "runtime-main.js": "/ZaitianMou.github.io/static/js/runtime-main.ecc114f6.js",
     "runtime-main.js.map": "/ZaitianMou.github.io/static/js/runtime-main.ecc114f6.js.map",
     "static/js/2.7df1d477.chunk.js": "/ZaitianMou.github.io/static/js/2.7df1d477.chunk.js",
     "static/js/2.7df1d477.chunk.js.map": "/ZaitianMou.github.io/static/js/2.7df1d477.chunk.js.map",
     "index.html": "/ZaitianMou.github.io/index.html",
-    "precache-manifest.64eb813ccd01e6264d0cd2afd7e84d05.js": "/ZaitianMou.github.io/precache-manifest.64eb813ccd01e6264d0cd2afd7e84d05.js",
+    "precache-manifest.af156417943d13b506908cdf912cf112.js": "/ZaitianMou.github.io/precache-manifest.af156417943d13b506908cdf912cf112.js",
     "service-worker.js": "/ZaitianMou.github.io/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/ZaitianMou.github.io/static/css/main.5facb584.chunk.css.map",
     "static/js/2.7df1d477.chunk.js.LICENSE.txt": "/ZaitianMou.github.io/static/js/2.7df1d477.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ecc114f6.js",
     "static/js/2.7df1d477.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.9f61dc06.chunk.js"
+    "static/js/main.f9736a15.chunk.js"
   ]
 }
